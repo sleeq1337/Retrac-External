@@ -15,8 +15,8 @@ Any issue dm on discord: sleeq1337
 
 
 ## Tags:
-ogfn external
-fortnite external
-14.40 external
-retrac external
+ogfn external,
+fortnite external,
+14.40 external,
+retrac external,
 retrac cheat
