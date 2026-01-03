@@ -1,0 +1,13 @@
+drag Ass.sys to C:\Windows\System32\drivers\
+
+open cmd as admin
+paste this command
+
+sc create Drv type= kernel start= demand binPath= C:\Windows\System32\drivers\Ass.sys
+
+
+then 
+
+sc start Drv
+
+ud?
