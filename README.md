@@ -1,6 +1,8 @@
 # Retrac External
 yes i used vase src 
 
+Any issue dm on discord: sleeq1337
+
 ### Exploits:
 - Rapid Fire
 - Fast Reload
