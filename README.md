@@ -1,5 +1,4 @@
 # Retrac External
-yes i used vase src 
 
 Any issue dm on discord: sleeq1337
 
