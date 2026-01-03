@@ -1138,7 +1138,7 @@ void DrawESP() {
 	if (Visuals::OverlayFPS)
 	{
 
-		XorS(title, "Sleeq Retrac External 4fun");
+		XorS(title, "Sleeq Retrac External");
 		char titleBuffer[128];
 		int current = 1;
 		int total = 2;
@@ -2683,4 +2683,5 @@ void xShutdown()
 
 	DestroyWindow(Window);
 	UnregisterClass("Crosshair", NULL);
+
 }
